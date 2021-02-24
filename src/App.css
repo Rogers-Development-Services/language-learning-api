@@ -15,6 +15,10 @@ button {
   cursor: pointer;
 }
 
+image {
+  width: 120px;
+}
+
 .App {
     text-align: center;
   }
